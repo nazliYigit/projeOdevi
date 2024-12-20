@@ -1,0 +1,3 @@
+C:/Users/nazli/CLionProjects/projeOdevi/cmake-build-debug/CMakeFiles/projeOdevi.dir
+C:/Users/nazli/CLionProjects/projeOdevi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nazli/CLionProjects/projeOdevi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
